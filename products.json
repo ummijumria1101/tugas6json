@@ -1,0 +1,47 @@
+[
+    {
+        "name" : "nama1",
+        "desc" : "deskripsi1 Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolores excepturi mollitia quidem adipisci",
+        "stok" : "110",
+        "harga" : "20000",
+        "diskon" : "10%",
+        "image" : "gambar1"
+
+    },
+    {
+        "name" : "nama2",
+        "desc" : "deskripsi1 Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolores excepturi mollitia quidem adipisci",
+        "stok" : "110",
+        "harga" : "20000",
+        "diskon" : "10%",
+        "image" : "gambar1"
+
+    },
+    {
+        "name" : "nama1",
+        "desc" : "deskripsi1 Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolores excepturi mollitia quidem adipisci",
+        "stok" : "110",
+        "harga" : "20000",
+        "diskon" : "10%",
+        "image" : "gambar1"
+
+    },
+    {
+        "name" : "nama1",
+        "desc" : "deskripsi1 Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolores excepturi mollitia quidem adipisci",
+        "stok" : "110",
+        "harga" : "20000",
+        "diskon" : "10%",
+        "image" : "gambar1"
+
+    },
+    {
+        "name" : "nama1",
+        "desc" : "deskripsi1 Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolores excepturi mollitia quidem adipisci",
+        "stok" : "110",
+        "harga" : "20000",
+        "diskon" : "10%",
+        "image" : "gambar1"
+
+    }
+]
